@@ -96,7 +96,7 @@ color: #A8A8A8;
     width: 779px;
 }
 .asosiy{
-    width: 1240px;
+    width: 1245px;
     margin: 0 auto;
 }
 .cay{
@@ -104,7 +104,7 @@ color: #A8A8A8;
     align-items: center;
     justify-content: space-around;
     padding-top: 40px;
-    
+    margin: 70px;
 }
 .cay-title p{
     width: 173px;
@@ -128,4 +128,250 @@ color: #A8A8A8;
 }
 .cay-img img{
     width: 400px;
+}
+.asosiy2{
+    width: 1240px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.order{
+display: flex;
+align-items: center;
+justify-content: space-around;
+margin: 50px;
+}
+.orders img{
+    width: 380px;
+}
+.order-title p{
+    width: 300px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #6B6B6B;
+    padding-top: 20px;
+}
+.order-title h1{
+    width: 214px;
+    font-weight: 400;
+    font-size: 38px;
+    padding-top: 20px;
+}
+.asosiy3{
+    width: 1240px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.magna{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   margin: 50px;
+}
+.magna-title p{
+    width: 300px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #6B6B6B;
+    padding-top: 20px;
+}
+.magna-title h1{
+    width: 290px;
+    font-weight: 400;
+    font-size: 38px;
+    padding-top: 20px;
+}
+.magna-img img{
+    width: 340px;
+}
+.asosiylar{
+    display: flex;
+    padding-top: 70px;
+}
+.asosiy4{
+    width: 1290px;
+    margin: 0 auto;
+}
+.activ{
+width: 430px;
+}
+.activs img{
+    width: 80px;
+}
+.activ-m h1{
+    width: 180px;
+    font-weight: 700;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.activ-m p{
+    width: 370px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #6B6B6B;
+    padding-top: 20px;
+}
+.asosiy5{
+    width: 1290px;
+    margin: 0 auto;
+}
+.custom{
+width: 430px;
+
+}
+.customs img{
+    width: 70px;
+}
+.custom-m h1{
+    width: 180px;
+    font-weight: 700;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.custom-m p{
+    width: 370px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #6B6B6B;
+    padding-top: 20px;
+}
+.asosiy6{
+    width: 1290px;
+    margin: 0 auto;
+    
+}
+.mobile{
+width: 430px;
+
+}
+.mobiles img{
+    width: 50px;
+    
+}
+.mobile-m h1{
+    width: 180px;
+    font-weight: 700;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.mobile-m p{
+    width: 370px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #6B6B6B;
+    padding-top: 10px;
+}
+.quam{
+    width: 1270px;
+    display: flex;
+    padding-top: 130px;
+}
+.nib{
+    width: 324px;
+    padding-top: 25px;
+}
+.nibs h1{
+    width: 129px;
+    font-weight: 400;
+    font-size: 59px;
+    color: #333333;
+}
+.nibs p{
+    width: 163px;
+    font-weight: 700;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.aen{
+    width: 324px;
+    padding-top: 25px;
+}
+.aens h1{
+    width: 66px;
+    font-weight: 400;
+    font-size: 59px;
+    color: #333333;
+}
+.aens p{
+    width: 193px;
+    font-weight: 700;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.incep{
+    width: 324px;
+    padding-top: 25px;
+}
+.inceps h1{
+    width: 120px;
+    font-weight: 400;
+    font-size: 59px;
+    color: #333333;
+}
+.inceps p{
+    width: 129px;
+    font-weight: 700;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.corper{
+    width: 324px;
+    padding-top: 25px;
+}
+.corpers h1{
+    width: 100px;
+    font-weight: 400;
+    font-size: 59px;
+    color: #333333;
+}
+.corpers p{
+    width: 106px;
+    font-weight: 400;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.sem{
+    width: 1296px;
+    padding-top: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.risus p{
+    width: 300px;
+    font-weight: 700;
+    font-size: 15px;
+    color: #6B6B6B;
+    padding-top: 20px;
+}
+.risus h1{
+    width: 250px;
+    font-weight: 400;
+    font-size: 38px;
+    padding-top: 20px;
+}
+.risurs img{
+    width: 520px;
+}
+.tortol{
+    width: 1296px;
+    padding-top: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.partur img{
+  width: 520px;  
+}
+.parturs p{
+    width: 300px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #6B6B6B;
+    padding-top: 16px;
+}
+.parturs h1{
+    width: 300px;
+    font-weight: 400;
+    font-size: 38px;
+    padding-top: 16px;
 }

@@ -452,7 +452,7 @@ text-align: center;
     display: flex;
     gap: 10px;
     padding-top: 25px;
-    transform: translate(438px);
+    padding-left: 440px;
 }
 .button1 button{
     width: 190px;
@@ -530,6 +530,7 @@ form button{
 }
 menu{
    padding-top: 35px;
+   padding-left: 240px;
 }
  ul a{
     color: #6B6B6B;
